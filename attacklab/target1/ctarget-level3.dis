@@ -1,0 +1,22 @@
+
+ctarget-level3.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	48 89 e0             	mov    %rsp,%rax
+   3:	48 81 ec 24 10 00 00 	sub    $0x1024,%rsp
+   a:	c6 04 24 35          	movb   $0x35,(%rsp)
+   e:	c6 44 24 01 39       	movb   $0x39,0x1(%rsp)
+  13:	c6 44 24 02 62       	movb   $0x62,0x2(%rsp)
+  18:	c6 44 24 03 39       	movb   $0x39,0x3(%rsp)
+  1d:	c6 44 24 04 39       	movb   $0x39,0x4(%rsp)
+  22:	c6 44 24 05 37       	movb   $0x37,0x5(%rsp)
+  27:	c6 44 24 06 66       	movb   $0x66,0x6(%rsp)
+  2c:	c6 44 24 07 61       	movb   $0x61,0x7(%rsp)
+  31:	c6 44 24 08 00       	movb   $0x0,0x8(%rsp)
+  36:	48 89 e7             	mov    %rsp,%rdi
+  39:	48 89 c4             	mov    %rax,%rsp
+  3c:	68 fa 18 40 00       	pushq  $0x4018fa
+  41:	c3                   	retq   

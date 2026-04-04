@@ -1,0 +1,3271 @@
+
+[instruction_seq: 1] 
+================ Set 0================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 3================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+S 600aa0,1 miss 
+
+[instruction_seq: 2] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 3================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+S 7ff000398,8 miss 
+
+[instruction_seq: 3] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 0, tag: 0, seq: 0 
+S 7ff000390,8 miss 
+
+[instruction_seq: 4] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 0, tag: 0, seq: 0 
+S 7ff000378,8 miss 
+
+[instruction_seq: 5] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+S 7ff000370,8 miss 
+
+[instruction_seq: 6] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+S 7ff000384,4 miss 
+
+[instruction_seq: 7] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: 6 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+L 7ff000384,4 hit 
+
+[instruction_seq: 8] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: 7 
+================ Set 1================== 
+line 0: valid: 0, tag: 0, seq: 0 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+S 7ff000388,4 miss 
+
+[instruction_seq: 9] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: 7 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+L 7ff000388,4 hit 
+
+[instruction_seq: 10] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: 7 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+L 7ff000384,4 hit 
+
+[instruction_seq: 11] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 4 
+L 7ff000378,8 hit 
+
+[instruction_seq: 12] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 13] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30055, seq: 1 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 600a20,4 miss eviction 
+
+[instruction_seq: 14] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: d 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 15] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: d 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 16] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: d 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: f 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 5 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000370,8 hit 
+
+[instruction_seq: 17] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: d 
+line 1: valid: 1, tag: 3ff8001c, seq: a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: f 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000384,4 hit 
+
+[instruction_seq: 18] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: d 
+line 1: valid: 1, tag: 3ff8001c, seq: 11 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: f 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 19] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: d 
+line 1: valid: 1, tag: 3ff8001c, seq: 11 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 12 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+S 600a60,4 miss eviction 
+
+[instruction_seq: 20] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 13 
+line 1: valid: 1, tag: 3ff8001c, seq: 11 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 12 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 21] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 13 
+line 1: valid: 1, tag: 3ff8001c, seq: 11 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 15 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 22] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 13 
+line 1: valid: 1, tag: 3ff8001c, seq: 11 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 16 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000384,4 hit 
+
+[instruction_seq: 23] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 13 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 16 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: b 
+L 7ff000378,8 hit 
+
+[instruction_seq: 24] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 13 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 16 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000388,4 hit 
+
+[instruction_seq: 25] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 13 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 19 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 600a24,4 miss eviction 
+
+[instruction_seq: 26] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 19 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 27] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 1b 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000388,4 hit 
+
+[instruction_seq: 28] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 1c 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 10 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000370,8 hit 
+
+[instruction_seq: 29] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 17 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 1c 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000384,4 hit 
+
+[instruction_seq: 30] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 1e 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 1c 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 31] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 1e 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 1f 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+S 600a70,4 miss eviction 
+
+[instruction_seq: 32] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 1e 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 1f 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 33] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 1e 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 22 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000388,4 hit 
+
+[instruction_seq: 34] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 1e 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 23 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000384,4 hit 
+
+[instruction_seq: 35] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 23 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 18 
+L 7ff000378,8 hit 
+
+[instruction_seq: 36] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 23 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000388,4 hit 
+
+[instruction_seq: 37] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 26 
+line 1: valid: 0, tag: 0, seq: 0 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 600a28,4 miss 
+
+[instruction_seq: 38] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 26 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 39] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 28 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000388,4 hit 
+
+[instruction_seq: 40] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 29 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 1d 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000370,8 hit 
+
+[instruction_seq: 41] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 24 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 29 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000384,4 hit 
+
+[instruction_seq: 42] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 2b 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 29 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 43] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30051, seq: 1a 
+line 1: valid: 1, tag: 3ff8001c, seq: 2b 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2c 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+S 600a80,4 miss eviction 
+
+[instruction_seq: 44] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 2b 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2c 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 45] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 2b 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2f 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000388,4 hit 
+
+[instruction_seq: 46] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 2b 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 30 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000384,4 hit 
+
+[instruction_seq: 47] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 30 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 25 
+L 7ff000378,8 hit 
+
+[instruction_seq: 48] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 30 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000388,4 hit 
+
+[instruction_seq: 49] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 33 
+line 1: valid: 1, tag: 30051, seq: 27 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 600a2c,4 hit 
+
+[instruction_seq: 50] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 33 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 51] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 35 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000388,4 hit 
+
+[instruction_seq: 52] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 36 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 2a 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000370,8 hit 
+
+[instruction_seq: 53] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 31 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 36 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000384,4 hit 
+
+[instruction_seq: 54] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 38 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 36 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 55] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 38 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 39 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30053, seq: 20 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+S 600a90,4 miss eviction 
+
+[instruction_seq: 56] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 38 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 39 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 57] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 38 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3c 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000388,4 hit 
+
+[instruction_seq: 58] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 38 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3d 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+M 7ff000384,4 hit hit 
+
+[instruction_seq: 59] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 3f 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3d 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000384,4 hit 
+
+[instruction_seq: 60] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 40 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 3d 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+S 7ff000388,4 hit 
+
+[instruction_seq: 61] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 40 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 41 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000388,4 hit 
+
+[instruction_seq: 62] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 40 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 42 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000384,4 hit 
+
+[instruction_seq: 63] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 42 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 32 
+L 7ff000378,8 hit 
+
+[instruction_seq: 64] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 42 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000388,4 hit 
+
+[instruction_seq: 65] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 45 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 3ff8001b, seq: 37 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 600a30,4 miss eviction 
+
+[instruction_seq: 66] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 45 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 67] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 47 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000388,4 hit 
+
+[instruction_seq: 68] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 48 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 30054, seq: 3a 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000370,8 miss eviction 
+
+[instruction_seq: 69] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 43 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 48 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000384,4 hit 
+
+[instruction_seq: 70] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 4a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 48 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 71] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 2d 
+line 1: valid: 1, tag: 3ff8001c, seq: 4a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 4b 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+S 600a64,4 miss eviction 
+
+[instruction_seq: 72] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 4a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 4b 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 73] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 4a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 4e 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000388,4 hit 
+
+[instruction_seq: 74] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 4a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 4f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000384,4 hit 
+
+[instruction_seq: 75] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 4f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 44 
+L 7ff000378,8 hit 
+
+[instruction_seq: 76] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 4f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000388,4 hit 
+
+[instruction_seq: 77] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 52 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 46 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 600a34,4 hit 
+
+[instruction_seq: 78] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 52 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 53 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 79] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 54 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 53 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000388,4 hit 
+
+[instruction_seq: 80] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 55 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 49 
+line 1: valid: 1, tag: 30051, seq: 53 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000370,8 hit 
+
+[instruction_seq: 81] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 50 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 55 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30051, seq: 53 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000384,4 hit 
+
+[instruction_seq: 82] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 57 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 55 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30051, seq: 53 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 83] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 57 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 58 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30051, seq: 53 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+S 600a74,4 miss eviction 
+
+[instruction_seq: 84] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 57 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 58 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 85] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 57 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 5b 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000388,4 hit 
+
+[instruction_seq: 86] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 57 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 5c 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000384,4 hit 
+
+[instruction_seq: 87] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 5c 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 51 
+L 7ff000378,8 hit 
+
+[instruction_seq: 88] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 5c 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000388,4 hit 
+
+[instruction_seq: 89] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 5f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 2 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 600a38,4 miss eviction 
+
+[instruction_seq: 90] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 5f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 91] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 61 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000388,4 hit 
+
+[instruction_seq: 92] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 62 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 56 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000370,8 hit 
+
+[instruction_seq: 93] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 5d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 62 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000384,4 hit 
+
+[instruction_seq: 94] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 64 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 62 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 95] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30053, seq: 4c 
+line 1: valid: 1, tag: 3ff8001c, seq: 64 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 65 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+S 600a84,4 miss eviction 
+
+[instruction_seq: 96] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 64 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 65 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 97] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 64 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 68 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000388,4 hit 
+
+[instruction_seq: 98] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 64 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 69 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000384,4 hit 
+
+[instruction_seq: 99] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 69 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 5e 
+L 7ff000378,8 hit 
+
+[instruction_seq: 100] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 69 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 101] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 6c 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 60 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 600a3c,4 hit 
+
+[instruction_seq: 102] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 6c 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 103] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 6e 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 104] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 6f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 63 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000370,8 hit 
+
+[instruction_seq: 105] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 6a 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 6f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000384,4 hit 
+
+[instruction_seq: 106] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 71 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 6f 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 107] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 71 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 72 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30053, seq: 59 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+S 600a94,4 miss eviction 
+
+[instruction_seq: 108] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 71 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 72 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 109] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 71 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 75 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 110] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 71 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 76 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+M 7ff000384,4 hit hit 
+
+[instruction_seq: 111] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 78 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 76 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000384,4 hit 
+
+[instruction_seq: 112] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 79 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 76 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+S 7ff000388,4 hit 
+
+[instruction_seq: 113] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 79 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 7a 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000388,4 hit 
+
+[instruction_seq: 114] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 79 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 7b 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000384,4 hit 
+
+[instruction_seq: 115] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 7b 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 6b 
+L 7ff000378,8 hit 
+
+[instruction_seq: 116] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 7b 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000388,4 hit 
+
+[instruction_seq: 117] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30054, seq: 66 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 7e 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 600a40,4 miss eviction 
+
+[instruction_seq: 118] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 7e 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 119] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 80 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000388,4 hit 
+
+[instruction_seq: 120] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 81 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 70 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000370,8 hit 
+
+[instruction_seq: 121] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 7c 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 81 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000384,4 hit 
+
+[instruction_seq: 122] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 83 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 81 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 123] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 83 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 84 
+line 1: valid: 1, tag: 30051, seq: 34 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+S 600a68,4 miss eviction 
+
+[instruction_seq: 124] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 83 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 84 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 125] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 83 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 87 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000388,4 hit 
+
+[instruction_seq: 126] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 83 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 88 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000384,4 hit 
+
+[instruction_seq: 127] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 88 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 7d 
+L 7ff000378,8 hit 
+
+[instruction_seq: 128] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 88 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000388,4 hit 
+
+[instruction_seq: 129] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 7f 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8b 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 600a44,4 hit 
+
+[instruction_seq: 130] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8b 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 131] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8d 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000388,4 hit 
+
+[instruction_seq: 132] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8e 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 82 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000370,8 hit 
+
+[instruction_seq: 133] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 89 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8e 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000384,4 hit 
+
+[instruction_seq: 134] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 90 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 8e 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 135] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 90 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 91 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30051, seq: 6d 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+S 600a78,4 miss eviction 
+
+[instruction_seq: 136] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 90 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 91 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 137] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 90 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 94 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000388,4 hit 
+
+[instruction_seq: 138] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 90 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 95 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000384,4 hit 
+
+[instruction_seq: 139] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 95 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 8a 
+L 7ff000378,8 hit 
+
+[instruction_seq: 140] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 95 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000388,4 hit 
+
+[instruction_seq: 141] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 98 
+line 1: valid: 1, tag: 30053, seq: 85 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 600a48,4 miss eviction 
+
+[instruction_seq: 142] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 98 
+line 1: valid: 1, tag: 30052, seq: 99 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 143] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9a 
+line 1: valid: 1, tag: 30052, seq: 99 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000388,4 hit 
+
+[instruction_seq: 144] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9b 
+line 1: valid: 1, tag: 30052, seq: 99 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 8f 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000370,8 hit 
+
+[instruction_seq: 145] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 96 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9b 
+line 1: valid: 1, tag: 30052, seq: 99 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000384,4 hit 
+
+[instruction_seq: 146] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 9d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9b 
+line 1: valid: 1, tag: 30052, seq: 99 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 147] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 9d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9e 
+line 1: valid: 1, tag: 30052, seq: 99 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+S 600a88,4 miss eviction 
+
+[instruction_seq: 148] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 9d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: 9e 
+line 1: valid: 1, tag: 30054, seq: 9f 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 149] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 9d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a1 
+line 1: valid: 1, tag: 30054, seq: 9f 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000388,4 hit 
+
+[instruction_seq: 150] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: 9d 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a2 
+line 1: valid: 1, tag: 30054, seq: 9f 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000384,4 hit 
+
+[instruction_seq: 151] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a2 
+line 1: valid: 1, tag: 30054, seq: 9f 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: 97 
+L 7ff000378,8 hit 
+
+[instruction_seq: 152] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a2 
+line 1: valid: 1, tag: 30054, seq: 9f 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000388,4 hit 
+
+[instruction_seq: 153] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a5 
+line 1: valid: 1, tag: 30054, seq: 9f 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 600a4c,4 miss eviction 
+
+[instruction_seq: 154] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a5 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 155] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a7 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000388,4 hit 
+
+[instruction_seq: 156] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a8 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: 9c 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000370,8 hit 
+
+[instruction_seq: 157] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: a3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a8 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000384,4 hit 
+
+[instruction_seq: 158] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: aa 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: a8 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 159] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: aa 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ab 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: 92 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+S 600a98,4 miss eviction 
+
+[instruction_seq: 160] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: aa 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ab 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 161] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: aa 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ae 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000388,4 hit 
+
+[instruction_seq: 162] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: aa 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: af 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+M 7ff000384,4 hit hit 
+
+[instruction_seq: 163] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b1 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: af 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000384,4 hit 
+
+[instruction_seq: 164] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: af 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+S 7ff000388,4 hit 
+
+[instruction_seq: 165] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b3 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000388,4 hit 
+
+[instruction_seq: 166] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b4 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000384,4 hit 
+
+[instruction_seq: 167] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b4 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: a4 
+L 7ff000378,8 hit 
+
+[instruction_seq: 168] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b4 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000388,4 hit 
+
+[instruction_seq: 169] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b7 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30054, seq: 73 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 600a50,4 miss eviction 
+
+[instruction_seq: 170] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b7 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 171] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: b9 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000388,4 hit 
+
+[instruction_seq: 172] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ba 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: a9 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000370,8 hit 
+
+[instruction_seq: 173] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: b5 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ba 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000384,4 hit 
+
+[instruction_seq: 174] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: bc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ba 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 175] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: bc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: bd 
+line 1: valid: 1, tag: 30052, seq: a6 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+S 600a6c,4 miss eviction 
+
+[instruction_seq: 176] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: bc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: bd 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 177] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: bc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c0 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000388,4 hit 
+
+[instruction_seq: 178] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: bc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c1 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000384,4 hit 
+
+[instruction_seq: 179] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c1 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: b6 
+L 7ff000378,8 hit 
+
+[instruction_seq: 180] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c1 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000388,4 hit 
+
+[instruction_seq: 181] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c4 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: b8 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 600a54,4 hit 
+
+[instruction_seq: 182] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c4 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 183] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c6 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000388,4 hit 
+
+[instruction_seq: 184] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c7 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: bb 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000370,8 hit 
+
+[instruction_seq: 185] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c2 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c7 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000384,4 hit 
+
+[instruction_seq: 186] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c9 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: c7 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 187] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c9 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ca 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30054, seq: ac 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+S 600a7c,4 miss eviction 
+
+[instruction_seq: 188] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c9 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ca 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: cb 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 189] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c9 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: cd 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: cb 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000388,4 hit 
+
+[instruction_seq: 190] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: c9 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ce 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: cb 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000384,4 hit 
+
+[instruction_seq: 191] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ce 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: cb 
+line 1: valid: 1, tag: 3ff8001b, seq: c3 
+L 7ff000378,8 hit 
+
+[instruction_seq: 192] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ce 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: cb 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000388,4 hit 
+
+[instruction_seq: 193] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d1 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30053, seq: cb 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 600a58,4 miss eviction 
+
+[instruction_seq: 194] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d1 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 195] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d3 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000388,4 hit 
+
+[instruction_seq: 196] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d4 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: c8 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000370,8 hit 
+
+[instruction_seq: 197] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: cf 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d4 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000384,4 hit 
+
+[instruction_seq: 198] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: d6 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d4 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 199] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: d6 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d7 
+line 1: valid: 1, tag: 30053, seq: be 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+S 600a8c,4 miss eviction 
+
+[instruction_seq: 200] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: d6 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: d7 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 201] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: d6 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: da 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000388,4 hit 
+
+[instruction_seq: 202] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: d6 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: db 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000384,4 hit 
+
+[instruction_seq: 203] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: db 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: d0 
+L 7ff000378,8 hit 
+
+[instruction_seq: 204] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: db 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+L 7ff000388,4 hit 
+
+[instruction_seq: 205] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: de 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: d2 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+L 600a5c,4 hit 
+
+[instruction_seq: 206] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: de 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+S 7ff00038c,4 hit 
+
+[instruction_seq: 207] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e0 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+L 7ff000388,4 hit 
+
+[instruction_seq: 208] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e1 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: d5 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+L 7ff000370,8 hit 
+
+[instruction_seq: 209] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: dc 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e1 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+L 7ff000384,4 hit 
+
+[instruction_seq: 210] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: e3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e1 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+L 7ff00038c,4 hit 
+
+[instruction_seq: 211] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: e3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e4 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 3ff8001b, seq: dd 
+S 600a9c,4 miss eviction 
+
+[instruction_seq: 212] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: e3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e4 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 30054, seq: e5 
+M 7ff000388,4 hit hit 
+
+[instruction_seq: 213] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: e3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e7 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 30054, seq: e5 
+L 7ff000388,4 hit 
+
+[instruction_seq: 214] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: e3 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e8 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 30054, seq: e5 
+M 7ff000384,4 hit hit 
+
+[instruction_seq: 215] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: ea 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e8 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 30054, seq: e5 
+L 7ff000384,4 hit 
+
+[instruction_seq: 216] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: eb 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e8 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 30052, seq: c5 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 30054, seq: e5 
+L 7ff000390,8 miss eviction 
+
+[instruction_seq: 217] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: eb 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e8 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 3ff8001c, seq: ec 
+================ Set 3================== 
+line 0: valid: 1, tag: 30052, seq: df 
+line 1: valid: 1, tag: 30054, seq: e5 
+L 7ff000398,8 miss eviction 
+
+[instruction_seq: 218] 
+================ Set 0================== 
+line 0: valid: 1, tag: 30052, seq: 8c 
+line 1: valid: 1, tag: 3ff8001c, seq: eb 
+================ Set 1================== 
+line 0: valid: 1, tag: 3ff8001c, seq: e8 
+line 1: valid: 1, tag: 30054, seq: d8 
+================ Set 2================== 
+line 0: valid: 1, tag: 3ff8001b, seq: e2 
+line 1: valid: 1, tag: 3ff8001c, seq: ec 
+================ Set 3================== 
+line 0: valid: 1, tag: 3ff8001c, seq: ed 
+line 1: valid: 1, tag: 30054, seq: e5 
+L 600aa0,1 miss eviction 
+hits:201 misses:37 evictions:29
